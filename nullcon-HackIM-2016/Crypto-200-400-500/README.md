@@ -44,7 +44,7 @@ We need the title of the book back, but unfortunately we only have a portion of 
 The_extract.txt ( http://ctf.nullcon.net/crypto/The_extract.txt )
 </pre>
 
-Soal kali ini kita diminta untuk mencari judul buku yang diinginkan, terdapat sebuah file .txt yang berisi caesar cipher. Kita coba decrypt isi dari file .txt tersebut dengan menggunakan tools online http://practicalcryptography.com/ciphers/caesar-cipher/. Setelah di dicrypt, terdapat cerita dari hasil decrypt tersebut, setelah membacanya terdapat kalimat yang menarik "a botnet called qualnto" hmm menarik..
+Soal kali ini kita diminta untuk mencari judul buku yang diinginkan, terdapat sebuah file .txt yang berisi caesar cipher. Kita coba decrypt isi dari file .txt tersebut dengan menggunakan tools online http://practicalcryptography.com/ciphers/caesar-cipher/. Setelah di didecrypt, terdapat cerita dari hasil decrypt tersebut, setelah membacanya terdapat kalimat yang menarik "a botnet called qualnto" hmm menarik..
 
 mari kita coba search di google dengan menggunakan keyword tersebut, ada sebuah situs yang menampilkan kalimat tersebut http://www.crimsonromance.com/romantic-suspense-novels/in-the-shadow-of-greed/ dan didapatkan flagnya yaitu title dari buku yang kita cari.
 
