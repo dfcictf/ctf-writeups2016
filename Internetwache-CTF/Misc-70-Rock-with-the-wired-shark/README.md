@@ -1,6 +1,7 @@
 Deskripsi soal:
 <pre>
-
+Sniffing traffic is fun. I saw a wired shark. Isn’t that strange?
+File: https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/misc70/task
 </pre>
 
 <h3>Solved by snoww0lf</h3>
