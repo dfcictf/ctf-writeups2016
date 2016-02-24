@@ -20,8 +20,8 @@ def cek_prima(a, b):
         for i in range(2, p):
             if p % i == 0:
                 break
-        else:
-            return p
+            else:
+                return p
     return None
 
 print r
