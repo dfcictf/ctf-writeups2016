@@ -6,7 +6,7 @@ https://0ldsk00lblog.ctf.internetwache.org/.
 
 <h3>Solved by snoww0lf</h3>
 
-Ini adalah soal web yang cukup mudah, jika kita perhatikan sekilas ini hanyalah sebuah web statis yang menurut saya tidak memiliki keistimewaan. Namun beberapa konten di situs tersebut memberikan beberapa clue yakni "All people are talking about a tool called 'Git'. I think I might give this a try.", nampaknya saat web ini dideploy mereka sengaja tidak menghapus direktori ".git". Untuk itu saya coba untuk mengakses https://0ldsk00lblog.ctf.internetwache.org/.git/ dan didapatkan 403 Forbidden, ini menandakan direktori tersebut ternyata tersedia.
+Ini adalah soal web yang cukup mudah, jika kita perhatikan sekilas ini hanyalah sebuah web statis yang menurut saya tidak memiliki keistimewaan. Namun beberapa konten di situs tersebut memberikan beberapa clue yakni "All people are talking about a tool called 'Git'. I think I might give this a try.", nampaknya saat web ini dideploy mereka sengaja tidak menghapus direktori ".git". Untuk itu saya coba untuk mengakses https://0ldsk00lblog.ctf.internetwache.org/.git/ dan didapatkan 403 Forbidden, ini menandakan direktori tersebut tersedia.
 
 Tahap berikutnya ialah melakukan cloning git tersebut, disini saya menggunakan "dvcs-ripper" yang dapat didownload disitus berikut ini https://github.com/kost/dvcs-ripper lalu menjalankan dan mengeksekusinya melalui console.
 
